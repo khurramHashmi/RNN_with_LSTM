@@ -1,2 +1,2 @@
-# MLP With LSTM and Recurrent Neural Networks #
+# NLP With LSTM and Recurrent Neural Networks #
 PLaying around with RNN and using embeddings.
