@@ -1,2 +1,2 @@
-# Very-Deep-Learning-NLP
-NLP exercise for Very Deep Learning Lecture at TU Kl
+# MLP With LSTM and Recurrent Neural Networks #
+PLaying around with RNN and using embeddings.
